@@ -1,0 +1,5 @@
+D:\SoftUni\23.01\DemoSolution\Trapezoid-Area\bin\Debug\Trapezoid-Area.exe.config
+D:\SoftUni\23.01\DemoSolution\Trapezoid-Area\bin\Debug\Trapezoid-Area.exe
+D:\SoftUni\23.01\DemoSolution\Trapezoid-Area\bin\Debug\Trapezoid-Area.pdb
+D:\SoftUni\23.01\DemoSolution\Trapezoid-Area\obj\Debug\Trapezoid-Area.exe
+D:\SoftUni\23.01\DemoSolution\Trapezoid-Area\obj\Debug\Trapezoid-Area.pdb

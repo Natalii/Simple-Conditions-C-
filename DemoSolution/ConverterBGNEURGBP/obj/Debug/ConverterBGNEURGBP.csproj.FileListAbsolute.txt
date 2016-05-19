@@ -1,0 +1,6 @@
+D:\SoftUni\23.01\DemoSolution\ConverterBGNEURGBP\bin\Debug\ConverterBGNEURGBP.exe.config
+D:\SoftUni\23.01\DemoSolution\ConverterBGNEURGBP\bin\Debug\ConverterBGNEURGBP.exe
+D:\SoftUni\23.01\DemoSolution\ConverterBGNEURGBP\bin\Debug\ConverterBGNEURGBP.pdb
+D:\SoftUni\23.01\DemoSolution\ConverterBGNEURGBP\obj\Debug\ConverterBGNEURGBP.csprojResolveAssemblyReference.cache
+D:\SoftUni\23.01\DemoSolution\ConverterBGNEURGBP\obj\Debug\ConverterBGNEURGBP.exe
+D:\SoftUni\23.01\DemoSolution\ConverterBGNEURGBP\obj\Debug\ConverterBGNEURGBP.pdb

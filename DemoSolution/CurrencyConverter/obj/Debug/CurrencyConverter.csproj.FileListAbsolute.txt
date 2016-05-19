@@ -1,0 +1,9 @@
+D:\SoftUni\23.01\DemoSolution\CurrencyConverter\bin\Debug\CurrencyConverter.exe.config
+D:\SoftUni\23.01\DemoSolution\CurrencyConverter\bin\Debug\CurrencyConverter.exe
+D:\SoftUni\23.01\DemoSolution\CurrencyConverter\bin\Debug\CurrencyConverter.pdb
+D:\SoftUni\23.01\DemoSolution\CurrencyConverter\obj\Debug\CurrencyConverter.csprojResolveAssemblyReference.cache
+D:\SoftUni\23.01\DemoSolution\CurrencyConverter\obj\Debug\CurrencyConverter.CurrencyConverter.resources
+D:\SoftUni\23.01\DemoSolution\CurrencyConverter\obj\Debug\CurrencyConverter.Properties.Resources.resources
+D:\SoftUni\23.01\DemoSolution\CurrencyConverter\obj\Debug\CurrencyConverter.csproj.GenerateResource.Cache
+D:\SoftUni\23.01\DemoSolution\CurrencyConverter\obj\Debug\CurrencyConverter.exe
+D:\SoftUni\23.01\DemoSolution\CurrencyConverter\obj\Debug\CurrencyConverter.pdb

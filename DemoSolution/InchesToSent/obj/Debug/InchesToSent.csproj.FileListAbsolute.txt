@@ -1,0 +1,5 @@
+D:\SoftUni\23.01\DemoSolution\InchesToSent\bin\Debug\InchesToSent.exe.config
+D:\SoftUni\23.01\DemoSolution\InchesToSent\bin\Debug\InchesToSent.exe
+D:\SoftUni\23.01\DemoSolution\InchesToSent\bin\Debug\InchesToSent.pdb
+D:\SoftUni\23.01\DemoSolution\InchesToSent\obj\Debug\InchesToSent.exe
+D:\SoftUni\23.01\DemoSolution\InchesToSent\obj\Debug\InchesToSent.pdb

@@ -1,0 +1,5 @@
+D:\SoftUni\23.01\DemoSolution\ConcanateData\bin\Debug\ConcanateData.exe.config
+D:\SoftUni\23.01\DemoSolution\ConcanateData\bin\Debug\ConcanateData.exe
+D:\SoftUni\23.01\DemoSolution\ConcanateData\bin\Debug\ConcanateData.pdb
+D:\SoftUni\23.01\DemoSolution\ConcanateData\obj\Debug\ConcanateData.exe
+D:\SoftUni\23.01\DemoSolution\ConcanateData\obj\Debug\ConcanateData.pdb

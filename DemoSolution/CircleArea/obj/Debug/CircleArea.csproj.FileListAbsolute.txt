@@ -1,0 +1,5 @@
+D:\SoftUni\23.01\DemoSolution\CircleArea\bin\Debug\CircleArea.exe.config
+D:\SoftUni\23.01\DemoSolution\CircleArea\bin\Debug\CircleArea.exe
+D:\SoftUni\23.01\DemoSolution\CircleArea\bin\Debug\CircleArea.pdb
+D:\SoftUni\23.01\DemoSolution\CircleArea\obj\Debug\CircleArea.exe
+D:\SoftUni\23.01\DemoSolution\CircleArea\obj\Debug\CircleArea.pdb

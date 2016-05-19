@@ -1,0 +1,6 @@
+D:\SoftUni\23.01\DemoSolution\USDToBGN\bin\Debug\USDToBGN.exe.config
+D:\SoftUni\23.01\DemoSolution\USDToBGN\bin\Debug\USDToBGN.exe
+D:\SoftUni\23.01\DemoSolution\USDToBGN\bin\Debug\USDToBGN.pdb
+D:\SoftUni\23.01\DemoSolution\USDToBGN\obj\Debug\USDToBGN.csprojResolveAssemblyReference.cache
+D:\SoftUni\23.01\DemoSolution\USDToBGN\obj\Debug\USDToBGN.exe
+D:\SoftUni\23.01\DemoSolution\USDToBGN\obj\Debug\USDToBGN.pdb

@@ -1,0 +1,6 @@
+D:\SoftUni\23.01\DemoSolution\TriangleArea\bin\Debug\TriangleArea.exe.config
+D:\SoftUni\23.01\DemoSolution\TriangleArea\bin\Debug\TriangleArea.exe
+D:\SoftUni\23.01\DemoSolution\TriangleArea\bin\Debug\TriangleArea.pdb
+D:\SoftUni\23.01\DemoSolution\TriangleArea\obj\Debug\TriangleArea.csprojResolveAssemblyReference.cache
+D:\SoftUni\23.01\DemoSolution\TriangleArea\obj\Debug\TriangleArea.exe
+D:\SoftUni\23.01\DemoSolution\TriangleArea\obj\Debug\TriangleArea.pdb
